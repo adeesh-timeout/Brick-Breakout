@@ -1,3 +1,4 @@
 # Brick-Breakout
-Too lazy to complete the game
+Too lazy to complete the game.
+
 Inefficient collision search btw brick and ball
